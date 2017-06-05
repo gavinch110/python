@@ -1,3 +1,6 @@
 # python
-Some Python docs used for self study
+Some Python docs used for self study.
+
 Well, I need to finish the guide, so just do some reedit.
+
+I am a new python-learner.
